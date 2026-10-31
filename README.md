@@ -191,7 +191,7 @@ flowchart LR
 
 ```bash
 # 저장소 클론
-git clone https://github.com/<your-org>/Zippers_NetworkProject.git
+git clone https://github.com/lees2541/Zippers_NetworkProject.git
 cd Zippers_NetworkProject/Zippers
 ```
 
